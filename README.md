@@ -1,23 +1,37 @@
 # 👋 ¡Hola! Soy Pamela Sessa
 
 💻 Desarrolladora Web Junior y entusiasta de la tecnología.  
-🔧 Me interesa la reparación, mantenimiento y optimización de computadoras.  
-🌐 También estoy aprendiendo sobre tecnologías de la información y trabajando en proyectos de desarrollo web.  
+
+🔧 Me interesa la reparación, mantenimiento y optimización de computadoras. 
+
+🌐 También estoy aprendiendo sobre tecnologías de la información y trabajando en proyectos de desarrollo web. 
+
 📚 Me gusta aprender constantemente y mejorar mis habilidades técnicas.
 
 ---
+
 🛠 Servicios / Habilidades
 
 💻 Instalación y configuración de Windows y Linux
+
 🔧 Limpieza y mantenimiento de PC
+
 ⚡ Optimización de rendimiento
+
 🛠️ Soporte técnico a usuarios
+
 🌐 Desarrollo de páginas web con HTML, CSS y JavaScript
+
 📱 Diseño de páginas web adaptables a distintos dispositivos
+
 ⚙️ Desarrollo backend con Node.js y Express
+
 🗄️ Manejo básico de bases de datos y SQL
+
 🔀 Control de versiones con Git y GitHub
+
 📦 Manejo de APIs y archivos JSON
+
 🔷 Desarrollo con TypeScript
 
 ---
