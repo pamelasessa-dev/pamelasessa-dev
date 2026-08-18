@@ -1,19 +1,24 @@
 # 👋 ¡Hola! Soy Pamela Sessa
 
-💻 Técnica en soporte informático y entusiasta de la tecnología.  
+💻 Desarrolladora Web Junior y entusiasta de la tecnología.  
 🔧 Me interesa la reparación, mantenimiento y optimización de computadoras.  
-🌐 También estoy aprendiendo sobre tecnologías de la información y trabajando en proyectos personales de desarrollo web.  
+🌐 También estoy aprendiendo sobre tecnologías de la información y trabajando en proyectos de desarrollo web.  
 📚 Me gusta aprender constantemente y mejorar mis habilidades técnicas.
 
 ---
+🛠 Servicios / Habilidades
 
-## 🛠 Servicios / Habilidades
-
-- Instalación de Windows y Linux
-- Formateo y particionado de discos (SSD / HDD)
-- Limpieza y mantenimiento de PC
-- Optimización de rendimiento
-- Soporte técnico a usuarios
+💻 Instalación y configuración de Windows y Linux
+🔧 Limpieza y mantenimiento de PC
+⚡ Optimización de rendimiento
+🛠️ Soporte técnico a usuarios
+🌐 Desarrollo de páginas web con HTML, CSS y JavaScript
+📱 Diseño de páginas web adaptables a distintos dispositivos
+⚙️ Desarrollo backend con Node.js y Express
+🗄️ Manejo básico de bases de datos y SQL
+🔀 Control de versiones con Git y GitHub
+📦 Manejo de APIs y archivos JSON
+🔷 Desarrollo con TypeScript
 
 ---
 
@@ -22,10 +27,8 @@
 - HTML
 - CSS
 - JavaScript
-- Java
+- TypeScript
 - Git / GitHub
-- Linux (Ubuntu)
-- Windows
 - Diagnóstico y reparación de hardware
 
 ---
@@ -45,10 +48,9 @@ Sitios creados con HTML, CSS y JavaScript.
 
 ## 📚 Actualmente aprendiendo
 
-- Técnicatura en Tecnologías de la Información
-- Linux y administración básica
-- Mejores prácticas de soporte técnico
-- Proyectos personales de Desarrollo Web
+- Desarrollo Web FullStack en Funval
+- Inglés
+- Proyectos de Desarrollo Web
 ---
 
 ## 📫 Contacto
