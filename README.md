@@ -1,73 +1,81 @@
-# 👋 ¡Hola! Soy Pamela Sessa
 
-💻 Desarrolladora Web Junior y entusiasta de la tecnología.  
+# ¡Hola! Soy Pamela Sessa 👋
 
-🔧 Me interesa la reparación, mantenimiento y optimización de computadoras. 
+💻 **Desarrolladora Web Full Stack Junior**
 
-🌐 También estoy aprendiendo sobre tecnologías de la información y trabajando en proyectos de desarrollo web. 
+Desarrolladora Web Full Stack Junior en formación, con experiencia práctica en proyectos individuales y colaborativos. Trabajo en el desarrollo de aplicaciones web y APIs REST, combinando tecnologías de frontend y backend.
 
-📚 Me gusta aprender constantemente y mejorar mis habilidades técnicas.
+Me destaco por mi capacidad de aprendizaje autónomo, investigación y resolución de problemas técnicos. Busco seguir creciendo profesionalmente y aportar mis conocimientos a proyectos reales.
 
----
+## 🛠️ Stack tecnológico
 
-🛠 Servicios / Habilidades
+**Frontend**
+- HTML5 y CSS3
+- JavaScript y TypeScript
+- React
+- Tailwind CSS
 
-💻 Instalación y configuración de Windows y Linux
+**Backend**
+- Node.js y Express
+- NestJS
+- APIs REST
+- Autenticación con JWT y Passport
 
-🔧 Limpieza y mantenimiento de PC
+**Bases de datos y herramientas**
+- PostgreSQL y SQL
+- Prisma ORM
+- Supabase
+- Git y GitHub
+- Swagger / OpenAPI
+- Render
 
-⚡ Optimización de rendimiento
+## 🚀 Proyectos destacados
 
-🛠️ Soporte técnico a usuarios
+### 🎓 SGAF — Sistema de Gestión Académica y Financiera
+**Proyecto individual**
 
-🌐 Desarrollo de páginas web con HTML, CSS y JavaScript
+API REST orientada a la gestión de procesos académicos, administrativos y financieros.
 
-📱 Diseño de páginas web adaptables a distintos dispositivos
+Incluye autenticación JWT, roles, validaciones y documentación con Swagger.
 
-⚙️ Desarrollo backend con Node.js y Express
+**Tecnologías:** NestJS, TypeScript, Prisma y PostgreSQL.
 
-🗄️ Manejo básico de bases de datos y SQL
+### 🎫 API Backend para Help Desk Interno
+**Proyecto colaborativo**
 
-🔀 Control de versiones con Git y GitHub
+Participación en el desarrollo de funcionalidades para la gestión de tickets, comentarios y usuarios, junto con autenticación, manejo de excepciones y documentación.
 
-📦 Manejo de APIs y archivos JSON
+**Tecnologías:** NestJS, TypeScript, Prisma y Swagger/OpenAPI.
 
-🔷 Desarrollo con TypeScript
+### 🐾 Albergue de Perritos
+**Proyecto frontend**
 
----
+Proyecto web orientado a la presentación de animales en adopción y a la mejora de la experiencia de navegación.
 
-## 💻 Tecnologías y herramientas
+**Tecnologías:** React, TypeScript y Tailwind CSS, según la implementación actual.
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Git / GitHub
-- Diagnóstico y reparación de hardware
+### 🦒 Zoológico Villa Dolores
+**En desarrollo**
 
----
+Aplicación frontend para explorar animales y facilitar la orientación de los visitantes mediante una guía del zoológico.
 
-## 🚀 Proyectos
+**Tecnologías:** React, TypeScript y Vite.
 
-🔹 **Página web personal**  
-Portfolio con proyectos y servicios.
+## 📚 Formación
 
-🔹 **Prácticas de soporte técnico**  
-Instalación de sistemas operativos, mantenimiento y optimización de equipos.
+- Desarrollo Web Full Stack — Funval (en curso).
+- Curso Desarrollador Web — Ceibal (2025).
+- Computer Hardware Basics — Cisco Networking Academy (2026).
+- Habilidades Digitales para la Empleabilidad — INEFOP / Microsoft (2025).
 
-🔹 **Proyectos web**  
-Sitios creados con HTML, CSS y JavaScript.
+## 🌎 Idiomas
 
----
-
-## 📚 Actualmente aprendiendo
-
-- Desarrollo Web FullStack en Funval
-- Inglés
-- Proyectos de Desarrollo Web
----
+- Español: nativo.
+- Inglés: A2.
 
 ## 📫 Contacto
 
-📧 Email: karinasessa@gmail.com
-🌐 Portfolio: https://pamelasessa-dev.github.io
+- 💻 [GitHub](https://github.com/pamelasessa-dev)
+- 🌐 [Portfolio](https://pamelasessa-dev.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pamela-sessa-111293358/)
+
